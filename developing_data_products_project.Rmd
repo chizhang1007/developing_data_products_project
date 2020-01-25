@@ -5,10 +5,6 @@ date: "1/22/2020"
 output: ioslides_presentation
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Introduction
 This reproducible pitch presentation is used to provide instructions and descriptions about the Shinny application I have developed. The app allows users to pick a specific state from the U.S., and the location of such a state will be presented on the map. It could help people identify and memorize the name, location, and shape of different states in America.
 
